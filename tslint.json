@@ -1,0 +1,9 @@
+{
+  "extends": "tslint-config-standard",
+  "compilerOptions": {
+    "strict": true
+  },
+  "rules": {
+    "space-before-function-paren": false
+  }
+}
